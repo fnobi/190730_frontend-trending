@@ -46,3 +46,7 @@
 
 ## まとめ
 - Webフロントは業界的に求められる役割が大きく変化し、それに伴って周辺技術も大きく変化。人材もそれに耐えられる飽きっぽい人が生き残った。
+
+## 宣伝
+- この資料は、自然なmarkdown文書をそのままスライド化する[sector-slide](https://github.com/fnobi/sector-slide)の提供でお送りしています。
+- いまのおすすめhinagataは[hinagata-next](https://github.com/fnobi/hinagata-next)なのでよかったらつかってね。
